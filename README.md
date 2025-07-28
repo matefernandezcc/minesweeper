@@ -1,40 +1,44 @@
-# Minesweeper JS 🕹️💣
+# Minesweeper 🕹️💣
 
-¡Bienvenido a **Minesweeper JS**, una versión clásica y mejorada del famoso juego de buscar minas, desarrollada 100% en JavaScript!
-
----
-
-## 🚀 Sobre el proyecto
-
-Este repositorio contiene una implementación del clásico **Minesweeper** usando **JavaScript moderno (ES6+)**, HTML y CSS.  
-El juego está pensado para ser:
-
-- Fácil de jugar y entender.  
-- Código claro y modular para aprender programación web.  
-- Base ideal para agregar funcionalidades y personalizar a gusto.  
+Welcome to **Minesweeper JS**, a classic and enhanced version of the famous minesweeping game, developed 100% in JavaScript!
 
 ---
 
-## 🎯 Características principales
+## 🚀 About the project
 
-- Tablero dinámico (configurable tamaño y cantidad de minas).  
-- Interacción con clicks izquierdo (revelar celda) y derecho (marcar bandera).  
-- Lógica completa para contar minas vecinas y revelar espacios vacíos recursivamente.  
-- Control de estados: victoria, derrota y juego en curso.  
-- Diseño responsivo y visual simple pero efectivo.  
+This repository contains an implementation of the classic **Minesweeper** using modern **JavaScript (ES6+)**, HTML, and CSS.  
+The game is designed to be:
 
----
-
-## 🛠️ Tecnologías usadas
-
-- **JavaScript** (ES6+ con funciones flecha, let/const, eventos y manipulación del DOM).  
-- **HTML5** para estructura.  
-- **CSS3** para estilos y animaciones simples.  
+- Easy to play and understand.  
+- Clear and modular code to help learn web programming.  
+- A solid base to add features and customize as you like.
 
 ---
 
-## 📦 Cómo usarlo
+## 🎯 Main features
 
-1. Cloná el repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/minesweeper-js.git
+- Dynamic board (configurable size and number of mines).  
+- Interaction with left clicks (reveal cell) and right clicks (mark flag).  
+- Complete logic to count neighboring mines and recursively reveal empty spaces.  
+- State control: win, lose, and game in progress.  
+- Responsive design with a simple but effective look.
+
+---
+
+## 🛠️ Technologies used
+
+- **JavaScript** (ES6+ with arrow functions, let/const, events, and DOM manipulation).  
+- **HTML5** for structure.  
+- **CSS3** for styles and simple animations.
+
+---
+
+## 📦 How to use it
+
+You can try the game live here:  
+[https://matefernandezcc.github.io/minesweeper](https://matefernandezcc.github.io/minesweeper)
+
+Or clone the repository:  
+```bash
+git clone https://github.com/matefernandezcc/minesweeper.git
+```
